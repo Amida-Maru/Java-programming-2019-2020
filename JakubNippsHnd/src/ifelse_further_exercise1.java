@@ -1,5 +1,5 @@
 import java.util.*;
-// jacek ty chuju
+// jacek ty chuju krnombrny ucz sie githuba 
 
 public class ifelse_further_exercise1 {
 	public static void main(String[] args) {
